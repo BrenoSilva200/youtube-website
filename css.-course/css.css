@@ -1,0 +1,42 @@
+body {
+  background-image: url(https://static1.cbrimages.com/wordpress/wp-content/uploads/2019/05/Super-Saiyan-God.jpg);
+  background-position: center;
+  background-size: cover;
+}
+
+h4 {
+  text-shadow: 5px 5px 1px purple, 10px 10px 1px black;
+}
+
+h4:hover {
+  box-shadow: 5px 5px 1px white;
+}
+
+h1 {
+  color: red;
+  font-family: "press Start 2P", "consolas", sans-serif;
+  border-top-style: dotted;
+  border-bottom-style: dotted;
+  border-left-style: double;
+  border-left-color: silver;
+  background: linear-gradient(to bottom,skyblue, lightgreen);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+p {
+  color: green;
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: cyan DOTTED UNDERLINE;
+  font-size: 18px;
+  border-style: dotted;
+  border-width: 5px;
+  border-color: color;
+  border-radius: 10px;
+  padding: 5px;
+  background: linear-gradient(to bottom,skyblue, lightgreen);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
